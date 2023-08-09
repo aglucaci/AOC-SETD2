@@ -1,0 +1,207 @@
+Gene ID,Gene symbol,Description,Scientific name,Common name,RefSeq Transcript accessions,RefSeq Protein accessions,SPARCLE ID,Curation Status,RefseqSelect,Default sequence
+29072,SETD2,"SET domain containing 2, histone lysine methyltransferase",Homo sapiens,human,NM_014159.7,NP_054878.5,,curated,RefseqSelect,default-seq
+235626,Setd2,SET domain containing 2,Mus musculus,house mouse,NM_001081340.3,NP_001074809.2,,curated,RefseqSelect,default-seq
+316013,Setd2,"SET domain containing 2, histone lysine methyltransferase",Rattus norvegicus,Norway rat,NM_001401163.1,NP_001388092.1,,curated,RefseqSelect,default-seq
+460331,SETD2,"SET domain containing 2, histone lysine methyltransferase",Pan troglodytes,chimpanzee,XM_016940925.3,XP_016796414.1,,model,,default-seq
+476643,SETD2,"SET domain containing 2, histone lysine methyltransferase",Canis lupus familiaris,dog,XM_859065.6,XP_864158.1,,model,,default-seq
+539860,SETD2,"SET domain containing 2, histone lysine methyltransferase",Bos taurus,cattle,XM_024983287.1,XP_024839055.1,,model,,default-seq
+711825,SETD2,"SET domain containing 2, histone lysine methyltransferase",Macaca mulatta,Rhesus monkey,XM_028844059.1,XP_028699892.1,,model,,default-seq
+100024848,SETD2,"SET domain containing 2, histone lysine methyltransferase",Monodelphis domestica,gray short-tailed opossum,XM_056805191.1,XP_056661169.1,,model,,default-seq
+100064888,SETD2,"SET domain containing 2, histone lysine methyltransferase",Equus caballus,horse,XM_023620544.1,XP_023476312.1,,model,,default-seq
+100351499,SETD2,"SET domain containing 2, histone lysine methyltransferase",Oryctolagus cuniculus,rabbit,XM_051852507.1,XP_051708467.1,,model,,default-seq
+100411953,SETD2,"SET domain containing 2, histone lysine methyltransferase",Callithrix jacchus,white-tufted-ear marmoset,XM_035275181.2,XP_035131072.1,,model,,default-seq
+100433116,SETD2,"SET domain containing 2, histone lysine methyltransferase",Pongo abelii,Sumatran orangutan,XM_002813811.4,XP_002813857.1,,model,,default-seq
+100466135,SETD2,"SET domain containing 2, histone lysine methyltransferase",Ailuropoda melanoleuca,giant panda,XM_002912844.4,XP_002912890.1,,model,,default-seq
+100584442,SETD2,"SET domain containing 2, histone lysine methyltransferase",Nomascus leucogenys,northern white-cheeked gibbon,XM_030811916.1,XP_030667776.1,,model,,default-seq
+100623101,SETD2,"SET domain containing 2, histone lysine methyltransferase",Sus scrofa,pig,XM_021068704.1,XP_020924363.1,,model,,default-seq
+100655356,SETD2,"SET domain containing 2, histone lysine methyltransferase",Loxodonta africana,African savanna elephant,XM_003409894.3,XP_003409942.3,,model,,default-seq
+100719166,Setd2,"SET domain containing 2, histone lysine methyltransferase",Cavia porcellus,domestic guinea pig,XM_003477037.4,XP_003477085.1,,model,,default-seq
+100765637,Setd2,"SET domain containing 2, histone lysine methyltransferase",Cricetulus griseus,Chinese hamster,XM_027414684.2,XP_027270485.1,,model,,default-seq
+100931646,SETD2,"SET domain containing 2, histone lysine methyltransferase",Sarcophilus harrisii,Tasmanian devil,XM_031960600.1,XP_031816460.1,,model,,default-seq
+100950439,SETD2,"SET domain containing 2, histone lysine methyltransferase",Otolemur garnettii,small-eared galago,XM_023515926.1,XP_023371694.1,,model,,default-seq
+100993006,SETD2,"SET domain containing 2, histone lysine methyltransferase",Pan paniscus,pygmy chimpanzee,XM_003818444.5,XP_003818492.3,,model,,default-seq
+101026986,SETD2,"SET domain containing 2, histone lysine methyltransferase",Papio anubis,olive baboon,XM_031663393.1,XP_031519253.1,,model,,default-seq
+101034613,SETD2,"SET domain containing 2, histone lysine methyltransferase",Saimiri boliviensis,Bolivian squirrel monkey,XM_039477412.1,XP_039333346.1,,model,,default-seq
+101085029,SETD2,"SET domain containing 2, histone lysine methyltransferase",Felis catus,domestic cat,XM_045049427.1,XP_044905362.1,,model,,default-seq
+101114649,SETD2,"SET domain containing 2, histone lysine methyltransferase",Ovis aries,sheep,XM_042236341.1,XP_042092275.1,,model,,default-seq
+101132140,SETD2,"SET domain containing 2, histone lysine methyltransferase",Gorilla gorilla gorilla,western lowland gorilla,XM_004034041.4,XP_004034089.3,,model,,default-seq
+101280364,SETD2,"SET domain containing 2, histone lysine methyltransferase",Orcinus orca,killer whale,XM_049716251.1,XP_049572208.1,,model,,default-seq
+101326086,SETD2,"SET domain containing 2, histone lysine methyltransferase",Tursiops truncatus,common bottlenose dolphin,XM_033864806.1,XP_033720697.1,,model,,default-seq
+101343139,LOC101343139,"SET domain containing 2, histone lysine methyltransferase",Trichechus manatus latirostris,Florida manatee,XM_023726403.1,XP_023582171.1,,model,,default-seq
+101365495,SETD2,"SET domain containing 2, histone lysine methyltransferase",Odobenus rosmarus divergens,Pacific walrus,XM_004399168.2,XP_004399225.1,,model,,default-seq
+101406941,LOC101406941,"SET domain containing 2, histone lysine methyltransferase",Ceratotherium simum simum,southern white rhinoceros,XM_004419624.2,XP_004419681.1,,model,,default-seq
+101433648,SETD2,"SET domain containing 2, histone lysine methyltransferase",Dasypus novemcinctus,nine-banded armadillo,XM_004449732.2,XP_004449789.1,,model,,default-seq
+101516490,SETD2,"SET domain containing 2, histone lysine methyltransferase",Ochotona princeps,American pika,XM_004581419.2,XP_004581476.1,,model,,default-seq
+101550871,SETD2,"SET domain containing 2, histone lysine methyltransferase",Sorex araneus,European shrew,XM_055134566.1,XP_054990541.1,,model,,default-seq
+101581725,Setd2,"SET domain containing 2, histone lysine methyltransferase",Octodon degus,degu,XM_023700658.1,XP_023556426.1,,model,,default-seq
+101596828,Setd2,"SET domain containing 2, histone lysine methyltransferase",Jaculus jaculus,lesser Egyptian jerboa,XM_045136808.1,XP_044992743.1,,model,,default-seq
+101625686,SETD2,"SET domain containing 2, histone lysine methyltransferase",Condylura cristata,star-nosed mole,XM_004676234.2,XP_004676291.1,,model,,default-seq
+101642970,SETD2,"SET domain containing 2, histone lysine methyltransferase",Echinops telfairi,small Madagascar hedgehog,XM_004703993.3,XP_004704050.2,,model,,default-seq
+101681942,SETD2,"SET domain containing 2, histone lysine methyltransferase",Mustela putorius furo,domestic ferret,XM_045080605.1,XP_044936540.1,,model,,default-seq
+101719404,Setd2,"SET domain containing 2, histone lysine methyltransferase",Heterocephalus glaber,naked mole-rat,XM_021256920.1,XP_021112579.1,,model,,default-seq
+101830442,Setd2,"SET domain containing 2, histone lysine methyltransferase",Mesocricetus auratus,golden hamster,XM_040739593.1,XP_040595527.1,,model,,default-seq
+101961276,Setd2,"SET domain containing 2, histone lysine methyltransferase",Ictidomys tridecemlineatus,thirteen-lined ground squirrel,XM_013361835.3,XP_013217289.1,,model,,default-seq
+101984721,Setd2,"SET domain containing 2, histone lysine methyltransferase",Microtus ochrogaster,prairie vole,XM_013346544.2,XP_013201998.1,,model,,default-seq
+102005942,Setd2,"SET domain containing 2, histone lysine methyltransferase",Chinchilla lanigera,long-tailed chinchilla,XM_013513427.1,XP_013368881.1,,model,,default-seq
+102121581,SETD2,"SET domain containing 2, histone lysine methyltransferase",Macaca fascicularis,crab-eating macaque,XM_045384952.1,XP_045240887.1,,model,,default-seq
+102183113,SETD2,"SET domain containing 2, histone lysine methyltransferase",Capra hircus,goat,XM_018066849.1,XP_017922338.1,,model,,default-seq
+102260404,SETD2,"SET domain containing 2, histone lysine methyltransferase",Myotis brandtii,Brandt's bat,XM_005867203.2,XP_005867265.1,,model,,default-seq
+102266643,SETD2,"SET domain containing 2, histone lysine methyltransferase",Bos mutus,wild yak,XM_005910747.1,XP_005910809.1,,model,,default-seq
+102393639,SETD2,"SET domain containing 2, histone lysine methyltransferase",Bubalus bubalis,water buffalo,XM_025272219.3,XP_025128004.2,,model,,default-seq
+102435793,SETD2,"SET domain containing 2, histone lysine methyltransferase",Myotis lucifugus,little brown bat,XM_006104138.3,XP_006104200.1,,model,,default-seq
+102477917,SETD2,"SET domain containing 2, histone lysine methyltransferase",Tupaia chinensis,Chinese tree shrew,XM_014585197.2,XP_014440683.1,,model,,default-seq
+102512396,SETD2,"SET domain containing 2, histone lysine methyltransferase",Camelus ferus,Wild Bactrian camel,XM_032458643.1,XP_032314534.1,,model,,default-seq
+102531919,SETD2,"SET domain containing 2, histone lysine methyltransferase",Vicugna pacos,alpaca,XM_031686134.1,XP_031541994.1,,model,,default-seq
+102727823,SETD2,"SET domain containing 2, histone lysine methyltransferase",Leptonychotes weddellii,Weddell seal,XM_031032312.1,XP_030888172.1,,model,,default-seq
+102758485,SETD2,"SET domain containing 2, histone lysine methyltransferase",Myotis davidii,,XM_006770565.2,XP_006770628.2,,model,,default-seq
+102824491,SETD2,"SET domain containing 2, histone lysine methyltransferase",Chrysochloris asiatica,Cape golden mole,XM_006868803.1,XP_006868865.1,,model,,default-seq
+102870293,SETD2,"SET domain containing 2, histone lysine methyltransferase",Elephantulus edwardii,Cape elephant shrew,XM_006893034.1,XP_006893096.1,,model,,default-seq
+102884085,SETD2,"SET domain containing 2, histone lysine methyltransferase",Pteropus alecto,black flying fox,XM_025048923.1,XP_024904691.1,,model,,default-seq
+102907614,Setd2,"SET domain containing 2, histone lysine methyltransferase",Peromyscus maniculatus bairdii,prairie deer mouse,XM_042282178.1,XP_042138112.1,,model,,default-seq
+102955436,SETD2,"SET domain containing 2, histone lysine methyltransferase",Panthera tigris,tiger,XM_042978793.1,XP_042834727.1,,model,,default-seq
+102997833,SETD2,"SET domain containing 2, histone lysine methyltransferase",Balaenoptera acutorostrata,minke whale,XM_057554657.1,XP_057410640.1,,model,,default-seq
+103086894,SETD2,"SET domain containing 2, histone lysine methyltransferase",Lipotes vexillifer,Yangtze River dolphin,XM_007470265.1,XP_007470327.1,,model,,default-seq
+103123336,SETD2,"SET domain containing 2, histone lysine methyltransferase",Erinaceus europaeus,western European hedgehog,XM_016192886.1,XP_016048372.1,,model,,default-seq
+103206310,SETD2,"SET domain containing 2, histone lysine methyltransferase",Orycteropus afer afer,,XM_042782420.1,XP_042638354.1,,model,,default-seq
+103227561,SETD2,"SET domain containing 2, histone lysine methyltransferase",Chlorocebus sabaeus,green monkey,XM_007984040.2,XP_007982231.2,,model,,default-seq
+103273788,SETD2,"SET domain containing 2, histone lysine methyltransferase",Carlito syrichta,Philippine tarsier,XM_008071233.1,XP_008069424.1,,model,,default-seq
+103299125,SETD2,"SET domain containing 2, histone lysine methyltransferase",Eptesicus fuscus,big brown bat,XM_054708108.1,XP_054564083.1,,model,,default-seq
+103551032,SETD2,"SET domain containing 2, histone lysine methyltransferase",Equus przewalskii,Przewalski's horse,XM_008520311.1,XP_008518533.1,,model,,default-seq
+103591229,SETD2,"SET domain containing 2, histone lysine methyltransferase",Galeopterus variegatus,Sunda flying lemur,XM_008573642.1,XP_008571864.1,,model,,default-seq
+103675118,SETD2,"SET domain containing 2, histone lysine methyltransferase",Ursus maritimus,polar bear,XM_040628906.1,XP_040484840.1,,model,,default-seq
+103732034,Setd2,"SET domain containing 2, histone lysine methyltransferase",Nannospalax galili,Upper Galilee mountains blind mole rat,XM_008830560.2,XP_008828782.1,,model,,default-seq
+104671311,SETD2,"SET domain containing 2, histone lysine methyltransferase",Rhinopithecus roxellana,golden snub-nosed monkey,XM_030936368.1,XP_030792228.1,,model,,default-seq
+104862369,Setd2,"SET domain containing 2, histone lysine methyltransferase",Fukomys damarensis,Damara mole-rat,XM_010624335.3,XP_010622637.1,,model,,default-seq
+105004686,SETD2,"SET domain containing 2, histone lysine methyltransferase",Bison bison bison,,XM_010862366.1,XP_010860668.1,,model,,default-seq
+105072880,SETD2,"SET domain containing 2, histone lysine methyltransferase",Camelus bactrianus,Bactrian camel,XM_010959973.2,XP_010958275.1,,model,,default-seq
+105103636,SETD2,"SET domain containing 2, histone lysine methyltransferase",Camelus dromedarius,Arabian camel,XM_031470190.1,XP_031326050.1,,model,,default-seq
+105302344,SETD2,"SET domain containing 2, histone lysine methyltransferase",Pteropus vampyrus,large flying fox,XM_011375323.2,XP_011373625.2,,model,,default-seq
+105509827,SETD2,"SET domain containing 2, histone lysine methyltransferase",Colobus angolensis palliatus,,XM_011939322.1,XP_011794712.1,,model,,default-seq
+105540477,SETD2,"SET domain containing 2, histone lysine methyltransferase",Mandrillus leucophaeus,drill,XM_011981141.1,XP_011836531.1,,model,,default-seq
+105573623,SETD2,"SET domain containing 2, histone lysine methyltransferase",Cercocebus atys,sooty mangabey,XM_012033424.1,XP_011888814.1,,model,,default-seq
+105707514,SETD2,"SET domain containing 2, histone lysine methyltransferase",Aotus nancymaae,Ma's night monkey,XM_021676148.1,XP_021531823.1,,model,,default-seq
+105827280,SETD2,"SET domain containing 2, histone lysine methyltransferase",Propithecus coquereli,Coquerel's sifaka,XM_012665347.1,XP_012520801.1,,model,,default-seq
+105874896,SETD2,"SET domain containing 2, histone lysine methyltransferase",Microcebus murinus,gray mouse lemur,XM_012771078.2,XP_012626532.2,,model,,default-seq
+105996211,Setd2,"SET domain containing 2, histone lysine methyltransferase",Dipodomys ordii,Ord's kangaroo rat,XM_013030225.1,XP_012885679.1,,model,,default-seq
+106823246,SETD2,"SET domain containing 2, histone lysine methyltransferase",Equus asinus,ass,XM_014828819.2,XP_014684305.2,,model,,default-seq
+106969033,SETD2,"SET domain containing 2, histone lysine methyltransferase",Acinonyx jubatus,cheetah,XM_027038561.2,XP_026894362.2,,model,,default-seq
+107145083,Setd2,"SET domain containing 2, histone lysine methyltransferase",Marmota marmota marmota,Alpine marmot,XM_048795195.1,XP_048651152.1,,model,,default-seq
+107509112,SETD2,"SET domain containing 2, histone lysine methyltransferase",Rousettus aegyptiacus,Egyptian rousette,XM_016141385.2,XP_015996871.1,,model,,default-seq
+107529409,SETD2,"SET domain containing 2, histone lysine methyltransferase",Miniopterus natalensis,,XM_016202785.1,XP_016058271.1,,model,,default-seq
+108305438,SETD2,"SET domain containing 2, histone lysine methyltransferase",Cebus imitator,Panamanian white-faced capuchin,XM_037736750.1,XP_037592678.1,,model,,default-seq
+108400455,SETD2,"SET domain containing 2, histone lysine methyltransferase",Manis javanica,Malayan pangolin,XM_036991512.1,XP_036847407.1,,model,,default-seq
+108517641,SETD2,"SET domain containing 2, histone lysine methyltransferase",Rhinopithecus bieti,black snub-nosed monkey,XM_017855697.1,XP_017711186.1,,model,,default-seq
+109247730,SETD2,"SET domain containing 2, histone lysine methyltransferase",Panthera pardus,leopard,XM_053898338.1,XP_053754313.1,,model,,default-seq
+109376628,SETD2,"SET domain containing 2, histone lysine methyltransferase",Hipposideros armiger,great roundleaf bat,XM_019632685.1,XP_019488230.1,,model,,default-seq
+109575988,SETD2,"SET domain containing 2, histone lysine methyltransferase",Bos indicus,zebu cattle,XM_019984251.1,XP_019839810.1,,model,,default-seq
+109689470,Setd2,"SET domain containing 2, histone lysine methyltransferase",Castor canadensis,American beaver,XM_020168341.1,XP_020023930.1,,model,,default-seq
+110152401,SETD2,"SET domain containing 2, histone lysine methyltransferase",Odocoileus virginianus,white-tailed deer,XM_020916156.1,XP_020771815.1,,model,,default-seq
+110217008,SETD2,"SET domain containing 2, histone lysine methyltransferase",Phascolarctos cinereus,koala,XM_020999125.1,XP_020854784.1,,model,,default-seq
+110301050,Setd2,"SET domain containing 2, histone lysine methyltransferase",Mus caroli,Ryukyu mouse,XM_029481184.1,XP_029337044.1,,model,,default-seq
+110328077,Setd2,"SET domain containing 2, histone lysine methyltransferase",Mus pahari,shrew mouse,XM_029543840.1,XP_029399700.1,,model,,default-seq
+110554986,Setd2,"SET domain containing 2, histone lysine methyltransferase",Meriones unguiculatus,Mongolian gerbil,XM_021647934.1,XP_021503609.1,,model,,default-seq
+110577582,SETD2,"SET domain containing 2, histone lysine methyltransferase",Neomonachus schauinslandi,Hawaiian monk seal,XM_021686955.2,XP_021542630.1,,model,,default-seq
+111144347,SETD2,"SET domain containing 2, histone lysine methyltransferase",Enhydra lutris kenyoni,,XM_022498607.1,XP_022354315.1,,model,,default-seq
+111174450,SETD2,"SET domain containing 2, histone lysine methyltransferase",Delphinapterus leucas,beluga whale,XM_022573297.2,XP_022429005.1,,model,,default-seq
+111555466,SETD2,"SET domain containing 2, histone lysine methyltransferase",Piliocolobus tephrosceles,Ugandan red Colobus,XM_026454859.2,XP_026310644.1,,model,,default-seq
+112064944,SETD2,"SET domain containing 2, histone lysine methyltransferase",Physeter catodon,sperm whale,XM_055080056.1,XP_054936031.1,,model,,default-seq
+112309866,SETD2,"SET domain containing 2, histone lysine methyltransferase",Desmodus rotundus,common vampire bat,XM_053929394.1,XP_053785369.1,,model,,default-seq
+112403750,SETD2,"SET domain containing 2, histone lysine methyltransferase",Neophocaena asiaeorientalis asiaeorientalis,Yangtze finless porpoise,XM_024751375.1,XP_024607143.1,,model,,default-seq
+112618523,SETD2,"SET domain containing 2, histone lysine methyltransferase",Theropithecus gelada,gelada,XM_025375621.1,XP_025231406.1,,model,,default-seq
+112666853,SETD2,"SET domain containing 2, histone lysine methyltransferase",Canis lupus dingo,dingo,XM_025458317.3,XP_025314102.1,,model,,default-seq
+112834195,SETD2,"SET domain containing 2, histone lysine methyltransferase",Callorhinus ursinus,northern fur seal,XM_025885659.1,XP_025741444.1,,model,,default-seq
+112852684,SETD2,"SET domain containing 2, histone lysine methyltransferase",Puma concolor,puma,XM_025916212.1,XP_025771997.1,,model,,default-seq
+112912390,SETD2,"SET domain containing 2, histone lysine methyltransferase",Vulpes vulpes,red fox,XM_025989100.1,XP_025844885.1,,model,,default-seq
+113183701,Setd2,"SET domain containing 2, histone lysine methyltransferase",Urocitellus parryii,Arctic ground squirrel,XM_026390085.1,XP_026245870.1,,model,,default-seq
+113256807,SETD2,"SET domain containing 2, histone lysine methyltransferase",Ursus arctos,brown bear,XM_057311689.1,XP_057167672.1,,model,,default-seq
+113615023,SETD2,"SET domain containing 2, histone lysine methyltransferase",Lagenorhynchus obliquidens,Pacific white-sided dolphin,XM_027096972.1,XP_026952773.1,,model,,default-seq
+113881035,SETD2,"SET domain containing 2, histone lysine methyltransferase",Bos indicus x Bos taurus,hybrid cattle,XM_027523846.1,XP_027379647.1,,model,,default-seq
+113916609,SETD2,"SET domain containing 2, histone lysine methyltransferase",Zalophus californianus,California sea lion,XM_027583187.2,XP_027438988.1,,model,,default-seq
+114027990,SETD2,"SET domain containing 2, histone lysine methyltransferase",Vombatus ursinus,common wombat,XM_027842146.1,XP_027697947.1,,model,,default-seq
+114090103,Setd2,"SET domain containing 2, histone lysine methyltransferase",Marmota flaviventris,yellow-bellied marmot,XM_027932172.2,XP_027787973.1,,model,,default-seq
+114196503,SETD2,"SET domain containing 2, histone lysine methyltransferase",Eumetopias jubatus,Steller sea lion,XM_028087260.1,XP_027943061.1,,model,,default-seq
+114501512,SETD2,"SET domain containing 2, histone lysine methyltransferase",Phyllostomus discolor,pale spear-nosed bat,XM_028518093.2,XP_028373894.1,,model,,default-seq
+114637170,Setd2,"SET domain containing 2, histone lysine methyltransferase",Grammomys surdaster,,XM_028785359.1,XP_028641192.1,,model,,default-seq
+114705174,Setd2,"SET domain containing 2, histone lysine methyltransferase",Peromyscus leucopus,white-footed mouse,XM_028886867.2,XP_028742700.1,,model,,default-seq
+114816148,SETD2,"SET domain containing 2, histone lysine methyltransferase",Ornithorhynchus anatinus,platypus,XM_029078077.2,XP_028933910.1,,model,,default-seq
+114906761,SETD2,"SET domain containing 2, histone lysine methyltransferase",Monodon monoceros,narwhal,XM_029241558.1,XP_029097391.1,,model,,default-seq
+115275175,SETD2,"SET domain containing 2, histone lysine methyltransferase",Suricata suricatta,meerkat,XM_029918811.1,XP_029774671.1,,model,,default-seq
+115507800,SETD2,"SET domain containing 2, histone lysine methyltransferase",Lynx canadensis,Canada lynx,XM_030306302.1,XP_030162162.1,,model,,default-seq
+115846555,SETD2,"SET domain containing 2, histone lysine methyltransferase",Globicephala melas,long-finned pilot whale,XM_030845350.1,XP_030701210.1,,model,,default-seq
+116072571,Setd2,"SET domain containing 2, histone lysine methyltransferase",Mastomys coucha,southern multimammate mouse,XM_031344028.1,XP_031199888.1,,model,,default-seq
+116473532,SETD2,"SET domain containing 2, histone lysine methyltransferase",Hylobates moloch,silvery gibbon,XM_032161749.1,XP_032017640.1,,model,,default-seq
+116564700,SETD2,"SET domain containing 2, histone lysine methyltransferase",Sapajus apella,tufted capuchin,XM_032297963.1,XP_032153854.1,,model,,default-seq
+116576112,SETD2,"SET domain containing 2, histone lysine methyltransferase",Mustela erminea,ermine,XM_032317937.1,XP_032173828.1,,model,,default-seq
+116637217,SETD2,"SET domain containing 2, histone lysine methyltransferase",Phoca vitulina,harbor seal,XM_032412597.1,XP_032268488.1,,model,,default-seq
+116761609,SETD2,"SET domain containing 2, histone lysine methyltransferase",Phocoena sinus,vaquita,XM_032647549.1,XP_032503440.1,,model,,default-seq
+116873806,SETD2,"SET domain containing 2, histone lysine methyltransferase",Lontra canadensis,Northern American river otter,XM_032867881.1,XP_032723772.1,,model,,default-seq
+116907675,Setd2,"SET domain containing 2, histone lysine methyltransferase",Rattus rattus,black rat,XM_032910769.1,XP_032766660.1,,model,,default-seq
+117036580,SETD2,"SET domain containing 2, histone lysine methyltransferase",Rhinolophus ferrumequinum,greater horseshoe bat,XM_033131533.1,XP_032987424.1,,model,,default-seq
+117080326,SETD2,"SET domain containing 2, histone lysine methyltransferase",Trachypithecus francoisi,Francois's langur,XM_033205307.1,XP_033061198.1,,model,,default-seq
+117693276,Setd2,"SET domain containing 2, histone lysine methyltransferase",Arvicanthis niloticus,Nile rat,XM_034483764.1,XP_034339655.1,,model,,default-seq
+118005368,SETD2,"SET domain containing 2, histone lysine methyltransferase",Mirounga leonina,Southern elephant seal,XM_034997270.1,XP_034853161.1,,model,,default-seq
+118545451,SETD2,"SET domain containing 2, histone lysine methyltransferase",Halichoerus grypus,gray seal,XM_036107698.1,XP_035963591.1,,model,,default-seq
+118586836,Setd2,"SET domain containing 2, histone lysine methyltransferase",Onychomys torridus,southern grasshopper mouse,XM_036192186.1,XP_036048079.1,,model,,default-seq
+118633365,SETD2,"SET domain containing 2, histone lysine methyltransferase",Molossus molossus,Pallas's mastiff bat,XM_036267207.1,XP_036123100.1,,model,,default-seq
+118668537,SETD2,"SET domain containing 2, histone lysine methyltransferase",Myotis myotis,,XM_036333763.1,XP_036189656.1,,model,,default-seq
+118714790,SETD2,"SET domain containing 2, histone lysine methyltransferase",Pipistrellus kuhlii,Kuhl's pipistrelle,XM_036430216.2,XP_036286109.1,,model,,default-seq
+118830679,SETD2,"SET domain containing 2, histone lysine methyltransferase",Trichosurus vulpecula,common brushtail,XM_036737580.1,XP_036593475.1,,model,,default-seq
+118903175,SETD2,"SET domain containing 2, histone lysine methyltransferase",Balaenoptera musculus,Blue whale,XM_036867938.1,XP_036723833.1,,model,,default-seq
+118908146,SETD2,"SET domain containing 2, histone lysine methyltransferase",Manis pentadactyla,Chinese pangolin,XM_036877191.2,XP_036733086.2,,model,,default-seq
+118976190,SETD2,"SET domain containing 2, histone lysine methyltransferase",Sturnira hondurensis,,XM_037030564.1,XP_036886459.1,,model,,default-seq
+119037871,SETD2,"SET domain containing 2, histone lysine methyltransferase",Artibeus jamaicensis,Jamaican fruit-eating bat,XM_053669064.1,XP_053525039.1,,model,,default-seq
+119259277,SETD2,"SET domain containing 2, histone lysine methyltransferase",Talpa occidentalis,Iberian mole,XM_037528019.2,XP_037383916.1,,model,,default-seq
+119544263,SETD2,"SET domain containing 2, histone lysine methyltransferase",Choloepus didactylus,southern two-toed sloth,XM_037849587.1,XP_037705515.1,,model,,default-seq
+119808984,Setd2,"SET domain containing 2, histone lysine methyltransferase",Arvicola amphibius,Eurasian water vole,XM_038321593.2,XP_038177521.1,,model,,default-seq
+119936065,SETD2,"SET domain containing 2, histone lysine methyltransferase",Tachyglossus aculeatus,Australian echidna,XM_038755448.1,XP_038611376.1,,model,,default-seq
+120229315,SETD2,"SET domain containing 2, histone lysine methyltransferase",Hyaena hyaena,striped hyena,XM_039228242.1,XP_039084173.1,,model,,default-seq
+120582282,SETD2,"SET domain containing 2, histone lysine methyltransferase",Pteropus giganteus,Indian flying fox,XM_039837578.1,XP_039693512.1,,model,,default-seq
+120868180,SETD2,"SET domain containing 2, histone lysine methyltransferase",Oryx dammah,scimitar-horned oryx,XM_040246841.1,XP_040102775.1,,model,,default-seq
+121011129,SETD2,"SET domain containing 2, histone lysine methyltransferase",Puma yagouaroundi,jaguarundi,XM_040445170.1,XP_040301104.1,,model,,default-seq
+121165658,SETD2,"SET domain containing 2, histone lysine methyltransferase",Ochotona curzoniae,black-lipped pika,XM_040994363.1,XP_040850297.1,,model,,default-seq
+121464185,Setd2,"SET domain containing 2, histone lysine methyltransferase",Microtus oregoni,creeping vole,XM_041676857.1,XP_041532791.1,,model,,default-seq
+121494650,SETD2,"SET domain containing 2, histone lysine methyltransferase",Vulpes lagopus,Arctic fox,XM_041761324.1,XP_041617258.1,,model,,default-seq
+122126928,Setd2,"SET domain containing 2, histone lysine methyltransferase",Dipodomys spectabilis,banner-tailed kangaroo rat,XM_042701479.1,XP_042557413.1,,model,,default-seq
+122214275,SETD2,"SET domain containing 2, histone lysine methyltransferase",Panthera leo,lion,XM_042929138.1,XP_042785072.1,,model,,default-seq
+122424798,SETD2,"SET domain containing 2, histone lysine methyltransferase",Cervus canadensis,,XM_043442992.1,XP_043298927.1,,model,,default-seq
+122487199,SETD2,"SET domain containing 2, histone lysine methyltransferase",Prionailurus bengalensis,leopard cat,XM_043587268.1,XP_043443203.1,,model,,default-seq
+122682825,SETD2,"SET domain containing 2, histone lysine methyltransferase",Cervus elaphus,red deer,XM_043886041.1,XP_043741976.1,,model,,default-seq
+122748811,SETD2,"SET domain containing 2, histone lysine methyltransferase",Dromiciops gliroides,monito del monte,XM_043994791.1,XP_043850726.1,,model,,default-seq
+122909482,SETD2,"SET domain containing 2, histone lysine methyltransferase",Neogale vison,American mink,XM_044253706.1,XP_044109641.1,,model,,default-seq
+123252909,SETD2,"SET domain containing 2, histone lysine methyltransferase",Gracilinanus agilis,Agile Gracile Mouse Opossum,XM_044682189.1,XP_044538124.1,,model,,default-seq
+123605597,SETD2,"SET domain containing 2, histone lysine methyltransferase",Leopardus geoffroyi,Geoffroy's cat,XM_045492690.1,XP_045348646.1,,model,,default-seq
+123623336,SETD2,"SET domain containing 2, histone lysine methyltransferase",Lemur catta,Ring-tailed lemur,XM_045530392.1,XP_045386348.1,,model,,default-seq
+123779799,SETD2,"SET domain containing 2, histone lysine methyltransferase",Ursus americanus,American black bear,XM_045778343.1,XP_045634299.1,,model,,default-seq
+123830508,SETD2,"SET domain containing 2, histone lysine methyltransferase",Phyllostomus hastatus,greater spear-nosed bat,XM_045856834.1,XP_045712790.1,,model,,default-seq
+123833858,SETD2,"SET domain containing 2, histone lysine methyltransferase",Mirounga angustirostris,Northern elephant seal,XM_045862551.2,XP_045718507.1,,model,,default-seq
+123932302,SETD2,"SET domain containing 2, histone lysine methyltransferase",Meles meles,Eurasian badger,XM_045990162.1,XP_045846118.1,,model,,default-seq
+124088170,Setd2,"SET domain containing 2, histone lysine methyltransferase",Marmota monax,woodchuck,XM_046437657.1,XP_046293613.1,,model,,default-seq
+124226703,SETD2,"SET domain containing 2, histone lysine methyltransferase",Equus quagga,,XM_046640347.1,XP_046496303.1,,model,,default-seq
+124523532,SETD2,"SET domain containing 2, histone lysine methyltransferase",Lynx rufus,bobcat,XM_047095299.1,XP_046951255.1,,model,,default-seq
+124969403,Setd2,"SET domain containing 2, histone lysine methyltransferase",Sciurus carolinensis,gray squirrel,XM_047532334.1,XP_047388290.1,,model,,default-seq
+125081004,SETD2,"SET domain containing 2, histone lysine methyltransferase",Lutra lutra,Eurasian river otter,XM_047695324.1,XP_047551280.1,,model,,default-seq
+125123194,SETD2,"SET domain containing 2, histone lysine methyltransferase",Phacochoerus africanus,Common warthog,XM_047772608.1,XP_047628564.1,,model,,default-seq
+125154219,SETD2,"SET domain containing 2, histone lysine methyltransferase",Prionailurus viverrinus,fishing cat,XM_047838093.1,XP_047694049.1,,model,,default-seq
+125342285,Setd2,"SET domain containing 2, histone lysine methyltransferase",Perognathus longimembris pacificus,Pacific pocket mouse,XM_048334405.1,XP_048190362.1,,model,,default-seq
+125393399,Setd2,"SET domain containing 2, histone lysine methyltransferase",Myodes glareolus,Bank vole,XM_048423864.1,XP_048279821.1,,model,,default-seq
+125930654,SETD2,"SET domain containing 2, histone lysine methyltransferase",Panthera uncia,snow leopard,XM_049642570.1,XP_049498527.1,,model,,default-seq
+126014003,SETD2,"SET domain containing 2, histone lysine methyltransferase",Suncus etruscus,white-toothed pygmy shrew,XM_049777290.1,XP_049633247.1,,model,,default-seq
+126064439,SETD2,"SET domain containing 2, histone lysine methyltransferase",Elephas maximus indicus,,XM_049863564.1,XP_049719521.1,,model,,default-seq
+126499805,Setd2,"SET domain containing 2, histone lysine methyltransferase",Microtus fortis,reed vole,XM_050139172.1,XP_049995129.1,,model,,default-seq
+126948577,SETD2,"SET domain containing 2, histone lysine methyltransferase",Macaca thibetana thibetana,,XM_050780541.1,XP_050636498.1,,model,,default-seq
+127184366,Setd2,"SET domain containing 2, histone lysine methyltransferase",Acomys russatus,golden spiny mouse,XM_051140722.1,XP_050996679.1,,model,,default-seq
+127235952,Setd2,"SET domain containing 2, histone lysine methyltransferase",Phodopus roborovskii,desert hamster,XM_051203308.1,XP_051059265.1,,model,,default-seq
+127688470,Setd2,"SET domain containing 2, histone lysine methyltransferase",Apodemus sylvaticus,European woodmouse,XM_052187121.1,XP_052043081.1,,model,,default-seq
+128044432,SETD2,"SET domain containing 2, histone lysine methyltransferase",Budorcas taxicolor,takin,XM_052636638.1,XP_052492598.1,,model,,default-seq
+128099956,Setd2,"SET domain containing 2, histone lysine methyltransferase",Peromyscus californicus insignis,,XM_052721895.1,XP_052577855.1,,model,,default-seq
+128592512,SETD2,"SET domain containing 2, histone lysine methyltransferase",Nycticebus coucang,slow loris,XM_053600468.1,XP_053456443.1,,model,,default-seq
+129033393,SETD2,"SET domain containing 2, histone lysine methyltransferase",Pongo pygmaeus,Bornean orangutan,XM_054481903.1,XP_054337878.1,,model,,default-seq
+129087631,SETD2,"SET domain containing 2, histone lysine methyltransferase",Pteronotus parnellii mesoamericanus,,XM_054594574.1,XP_054450549.1,,model,,default-seq
+129482897,SETD2,"SET domain containing 2, histone lysine methyltransferase",Symphalangus syndactylus,siamang,XM_055279439.1,XP_055135414.1,,model,,default-seq
+129521732,SETD2,"SET domain containing 2, histone lysine methyltransferase",Nyctereutes procyonoides,raccoon dog,XM_055343496.1,XP_055199471.1,,model,,default-seq
+129547776,SETD2,"SET domain containing 2, histone lysine methyltransferase",Moschus berezovskii,Chinese forest musk deer,XM_055413674.1,XP_055269649.1,,model,,default-seq
+129635448,SETD2,"SET domain containing 2, histone lysine methyltransferase",Bubalus carabanensis,carabao,XM_055558479.1,XP_055414454.1,,model,,default-seq
+129672280,Setd2,"SET domain containing 2, histone lysine methyltransferase",Psammomys obesus,fat sand rat,XM_055601590.1,XP_055457565.1,,model,,default-seq
+130037252,SETD2,"SET domain containing 2, histone lysine methyltransferase",Sorex cinereus,cinereus shrew,XM_056128959.1,XP_055984934.1,,model,,default-seq
+130835291,SETD2,"SET domain containing 2, histone lysine methyltransferase",Hippopotamus amphibius kiboko,,XM_057706760.1,XP_057562743.1,,model,,default-seq
+130872500,Setd2,"SET domain containing 2, histone lysine methyltransferase",Chionomys nivalis,European snow vole,XM_057766501.1,XP_057622484.1,,model,,default-seq
